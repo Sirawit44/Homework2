@@ -100,6 +100,6 @@ body{
 
 .nav-right i:hover {
   background-color: #c9cdd4;
-  color: #0766ff;
+  color: #0766ff !important;
 }
 
